@@ -32,7 +32,7 @@ const AppWork = () => {
                     </Button>
 
                     <Modal title="Orasi Kedaulatan oleh Jusuf Kalla @Pak_JK - PPSMB Palapa UGM" visible={isModalVisible} onOk={handleOk} onCancel={handleCancel} footer="">
-                        {/* <iframe width="100%" height="350" src="https://www.youtube.com/embed/bLEai-pc2IE" title="Orasi Kedaulatan oleh Jusuf Kalla @Pak_JK - PPSMB Palapa UGM"></iframe> */}
+                        <iframe width="100%" height="350" src="https://www.youtube.com/embed/bLEai-pc2IE" title="Orasi Kedaulatan oleh Jusuf Kalla @Pak_JK - PPSMB Palapa UGM"></iframe>
                     </Modal>
                 </div>
             </div>
